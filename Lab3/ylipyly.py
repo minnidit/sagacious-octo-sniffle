@@ -1,10 +1,11 @@
 #!/usr/bin/python
 
-print "aa"
-print "aaAAAAA"
+print "eeee"
 
-#Develop	a	short	program,	which	tests	to	see	if	a	string	input	on	the	command	line	is	a	
-#palindrome.	The	program	can	simply	print	out	“True”	or	“False”.	You	should	test	it	with	the	
+
+
+#Develop	a	short	program,	which	tests	to	see	if	a	string	input	on	the	command	line	is	a
+#palindrome.	The	program	can	simply	print	out	“True”	or	“False”.	You	should	test	it	with	the
 #following	strings.
 #a. Oxo
 #b. OXO
