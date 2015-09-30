@@ -1,0 +1,2 @@
+Create	a	new	Lab3	subfolder	in	your	repo	and	connect	to	it	from	Nitrous.	Nitrous	will	be	
+your	development	environment.
